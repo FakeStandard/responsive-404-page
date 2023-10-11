@@ -1,4 +1,4 @@
-# :ghost: RWD 404 Page Using HTML, CSS and Javascript
+# :ghost: RWD 404 Page
 
 - Responsive 404 Page Modern Design
 - Using HTML, CSS & JavaScript
