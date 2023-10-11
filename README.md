@@ -1,6 +1,6 @@
 # :ghost: RWD 404 Page Using HTML, CSS and Javascript
 
-- Responsive Website Modern Design
+- Responsive 404 Page Modern Design
 - Using HTML, CSS & JavaScript
 
 ### :star: [Demo](https://fakestandard.github.io/responsive-404-page/)
